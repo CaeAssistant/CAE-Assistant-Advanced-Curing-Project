@@ -10,7 +10,8 @@ For verification, we have compared the residual stress with the results provided
 You can access the full tutorial package in the following link:
 
 
-[https://caeassistant.com/product/curing-process-simulation-abaqus-path-dependent/](https://caeassistant.com/product/curing-process-simulation-abaqus-path-dependent/)
+Caeassistant _ com
+
 
 
 
